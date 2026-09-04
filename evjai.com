@@ -5,9 +5,9 @@
     <meta name="description" content="SIBAYAKTOTO adalah portal situs slot 4D gacor dengan link slot toto terbaru anti rungkad. Main slot terpercaya, jackpot besar dan link alternatif anti lag hari ini.">
     <meta name="robots" content="index, follow, nosnippet">
     <link rel="canonical" href="https://evjai.com/">
-    <link rel="amphtml" href="https://revue.internationalpublisher.site/">
-    <link rel="alternate" hreflang="id-id" href="https://revue.internationalpublisher.site/">
-    <link rel="alternate" hreflang="id" href="https://revue.internationalpublisher.site/">
+    <link rel="amphtml" href="https://portal.pendidikanunwira.lol/">
+    <link rel="alternate" hreflang="id-id" href="https://portal.pendidikanunwira.lol/">
+    <link rel="alternate" hreflang="id" href="https://portal.pendidikanunwira.lol/">
     <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin="">
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0LSM1YJSPZ" nonce="se3iyzEHMc9FQEB4wSyd0w=="></script>
     <script nonce="se3iyzEHMc9FQEB4wSyd0w==">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("consent","default",
@@ -210,8 +210,8 @@
       <div class="topbar-right">
         <a href="https://evjai.com/">SIBAYAKTOTO</a>
         <a href="https://evjai.com/">Slot 4D</a>
-        <a href="https://revue.internationalpublisher.site/">Daftar</a>
-        <a href="https://revue.internationalpublisher.site/">Masuk</a>
+        <a href="https://portal.pendidikanunwira.lol/">Daftar</a>
+        <a href="https://portal.pendidikanunwira.lol/">Masuk</a>
       </div>
     </div>
   </header>
@@ -1236,7 +1236,7 @@ transition:background-color .15s ease,border-color .15s ease,transform .05s ease
         <li><strong>Layanan Pelanggan:</strong> Online 24 Jam Nonstop</li>
         <li><strong>Jumlah Member Aktif:</strong> Lebih dari 999 Juta Orang</li>
         <li><strong>Rating Member:</strong> ⭐⭐⭐⭐⭐ (4.9 dari 5)</li>
-        <li><strong>Daftar &amp; Bermain Sekarang:</strong> <a href="https://revue.internationalpublisher.site/" target="_blank" rel="noopener">Klik Disini Daftar SIBAYAKTOTO</a></li>
+        <li><strong>Daftar &amp; Bermain Sekarang:</strong> <a href="https://portal.pendidikanunwira.lol/" target="_blank" rel="noopener">Klik Disini Daftar SIBAYAKTOTO</a></li>
     </ul>
     <p>SIBAYAKTOTO adalah portal situs slot 4D gacor dengan link slot toto terbaru anti rungkad. Main slot terpercaya, jackpot besar dan link alternatif anti lag hari ini.</p>
 </div>
@@ -1313,7 +1313,7 @@ transition:background-color .15s ease,border-color .15s ease,transform .05s ease
 
                   <ul class="inst-month-list" id="inst-month-list" aria-label="Daftar cicilan per bulan"><li class="inst-month-item"><span class="tenor-badge">3x</span><span class="amount">Rp 6.929.700 / bln</span></li><li class="inst-month-item"><span class="tenor-badge">6x</span><span class="amount">Rp 3.464.900 / bln</span></li><li class="inst-month-item"><span class="tenor-badge">12x</span><span class="amount">Rp 1.732.500 / bln</span></li></ul>
                   <div class="inst-note" id="inst-zero-note" style="display:none;">0% Cicilan khusus bank terpilih*</div>
-                  <div class="inst-disclaimer">Angka estimasi. Bisa ber https://revue.internationalpublisher.site/ sesuai kebijakan bank / penyedia.</div>
+                  <div class="inst-disclaimer">Angka estimasi. Bisa ber https://portal.pendidikanunwira.lol/ sesuai kebijakan bank / penyedia.</div>
               </div>
               
               <!-- MECHA BLUE FINAL BOSS REVIEW SLIDER -->
@@ -3303,8 +3303,8 @@ transition:background-color .15s ease,border-color .15s ease,transform .05s ease
           <div class="Popup Banner">
               <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxDoJKCmsK9Mf9cNCVFgiSW5IY7jCoHz1CyXQhqXQBEivmYnriR9PoZdaWvSV7eIfTlS0TFhD4TL6vONe8E8dL-Zcm9XdZIhgH4mbkFPodQBn4wot-0TuqgslI714mcHCNwX4D9FAG6Xml-Wa-2SZKqKF4Pji0CeBPeCZTX3I4A1_LWbjSzQbXVJYTEwI/s800/slot4dgacor.webp" alt="Popup Banner" class="popup-image">
               <div class="clk-btn-sgp" style="font-size: 20px;">
-                  <a href="https://revue.internationalpublisher.site/" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
-                  <a href="https://revue.internationalpublisher.site/" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                  <a href="https://portal.pendidikanunwira.lol/" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
+                  <a href="https://portal.pendidikanunwira.lol/" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
               </div>
               <div class="popup-footer">
                   SIBAYAKTOTO: Portal Situs Slot 4D Gacor & Link Slot Toto Terbaru Anti Rungkad<br>
@@ -5114,22 +5114,22 @@ transition:background-color .15s ease,border-color .15s ease,transform .05s ease
 </style>
 
   <div class="nias-red-fixed-footer">
-    <a href="https://revue.internationalpublisher.site/" target="_blank" rel="nofollow noopener">
+    <a href="https://portal.pendidikanunwira.lol/" target="_blank" rel="nofollow noopener">
       <img src="https://sby.p-balap.info/img/sibayaktotoicon.webp" alt="BONUS SIBAYAKTOTO">
       PROMO
     </a>
     
-    <a href="https://revue.internationalpublisher.site/" target="_blank" rel="nofollow noopener">
+    <a href="https://portal.pendidikanunwira.lol/" target="_blank" rel="nofollow noopener">
       <img src="https://sby.p-balap.info/img/sibayaktotoicon.webp" alt="LOGIN SIBAYAKTOTO">
       LOGIN
     </a>
 
-    <a href="https://revue.internationalpublisher.site/" target="_blank" rel="nofollow noopener" class="core-cta">
+    <a href="https://portal.pendidikanunwira.lol/" target="_blank" rel="nofollow noopener" class="core-cta">
       <img src="https://sby.p-balap.info/img/sibayaktotoicon.webp" alt="DAFTAR SIBAYAKTOTO">
       DAFTAR
     </a>
 
-    <a href="https://revue.internationalpublisher.site/" target="_blank" rel="nofollow noopener">
+    <a href="https://portal.pendidikanunwira.lol/" target="_blank" rel="nofollow noopener">
       <img src="https://sby.p-balap.info/img/sibayaktotoicon.webp" alt="BONUS TOTO MACAU">
       BONUS TOTO MACAU
     </a>
