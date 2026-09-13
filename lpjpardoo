@@ -37,15 +37,15 @@
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
 
 <link rel="canonical" href="https://jpardo.edu.pe/">
-<link rel="amphtml" href="https://sg.llanosdelcastorushuaia.site/" />
-<link rel="alternate" href="https://sg.llanosdelcastorushuaia.site/"> 
-<link rel="alternate" href="https://sg.llanosdelcastorushuaia.site/" hreflang="id">
-<link rel="alternate" href="https://sg.llanosdelcastorushuaia.site/" hreflang="en">
-<link rel="alternate" href="https://sg.llanosdelcastorushuaia.site/" hreflang="en">
-<link rel="alternate" href="https://sg.llanosdelcastorushuaia.site/" hreflang="x-default">
-<link rel="alternate" hreflang="id-ID" href="https://sg.llanosdelcastorushuaia.site/" />
-<link rel="alternate" hreflang="en-US" href="https://sg.llanosdelcastorushuaia.site/" />
-<link rel="alternate" hreflang="en-SG" href="https://sg.llanosdelcastorushuaia.site/" />
+<link rel="amphtml" href="https://sg-1.llanosdelcastorushuaia.site/" />
+<link rel="alternate" href="https://sg-1.llanosdelcastorushuaia.site/"> 
+<link rel="alternate" href="https://sg-1.llanosdelcastorushuaia.site/" hreflang="id">
+<link rel="alternate" href="https://sg-1.llanosdelcastorushuaia.site/" hreflang="en">
+<link rel="alternate" href="https://sg-1.llanosdelcastorushuaia.site/" hreflang="en">
+<link rel="alternate" href="https://sg-1.llanosdelcastorushuaia.site/" hreflang="x-default">
+<link rel="alternate" hreflang="id-ID" href="https://sg-1.llanosdelcastorushuaia.site/" />
+<link rel="alternate" hreflang="en-US" href="https://sg-1.llanosdelcastorushuaia.site/" />
+<link rel="alternate" hreflang="en-SG" href="https://sg-1.llanosdelcastorushuaia.site/" />
 <link rel="alternate" hreflang="x-default" href="https://jpardo.edu.pe/" />
 <link rel="shortcut icon" type="image/x-icon" href="https://sby.p-balap.info/img/sibayaktotoicon.webp">
 
@@ -435,7 +435,7 @@ var googleMapsConfig = {
   <div class="header_panel_info">
     <ul>
       <li class="download-app-link">
-        <a href="https://sg.llanosdelcastorushuaia.site/">
+        <a href="https://sg-1.llanosdelcastorushuaia.site/">
           <img width="14" height="14" alt="download icon" loading="lazy" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">
           download apps
         </a>
@@ -445,12 +445,12 @@ var googleMapsConfig = {
               <div class="app-content">
                 download app  from:
                 <div class="view code app_store">
-                    <a class="sh-store-link" href="https://sg.llanosdelcastorushuaia.site/" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" href="https://sg-1.llanosdelcastorushuaia.site/" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
                     </a>
                 </div>
                 <div class="view code play_store">
-                    <a class="sh-store-link" data-test="google-play-link" href="https://sg.llanosdelcastorushuaia.site/" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" data-test="google-play-link" href="https://sg-1.llanosdelcastorushuaia.site/" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
                     </a>
                 </div>
@@ -461,7 +461,7 @@ var googleMapsConfig = {
       </li>
 
       <li>
-        <a href="https://sg.llanosdelcastorushuaia.site/">
+        <a href="https://sg-1.llanosdelcastorushuaia.site/">
           <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">
           gift registry        </a>
       </li>
@@ -562,9 +562,9 @@ color:#000;
   </div>
   <div class="header_panel_info">
     <ul>
-      <li><a href="https://sg.llanosdelcastorushuaia.site/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">LOGIN</a></li>
-      <li><a href="https://sg.llanosdelcastorushuaia.site/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">DAFTAR</a></li>
-      <li><a href="https://sg.llanosdelcastorushuaia.site/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
+      <li><a href="https://sg-1.llanosdelcastorushuaia.site/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">LOGIN</a></li>
+      <li><a href="https://sg-1.llanosdelcastorushuaia.site/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">DAFTAR</a></li>
+      <li><a href="https://sg-1.llanosdelcastorushuaia.site/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
     </ul>
   </div>
 </div>
@@ -1875,7 +1875,7 @@ font-size:12px;
         <div class="account-label">
             <a href="/customer/account" class="account-link">Akun Saya</a>
         </div>
-        <button><a href="https://sg.llanosdelcastorushuaia.site/">Masuk</a></button>
+        <button><a href="https://sg-1.llanosdelcastorushuaia.site/">Masuk</a></button>
     </div>
 
 </div></div><div class="kanmo-custom-search-mc">
@@ -1992,7 +1992,7 @@ font-size:12px;
             <div class="dropdown switcher-dropdown" data-target="dropdown">
             <ul class="header links">
             <li class="link authorization-link loginRevamp" data-label="Atau">
-            <a href="https://sg.llanosdelcastorushuaia.site/">
+            <a href="https://sg-1.llanosdelcastorushuaia.site/">
                 Masuk / buat akun            </a>
         </li>
 
@@ -2136,9 +2136,9 @@ font-size:12px;
     transition: 0.6s;
 }
 </style><div class="n-columns-2">
-            <a href="https://sg.llanosdelcastorushuaia.site/" rel="nofollow noreferrer"
+            <a href="https://sg-1.llanosdelcastorushuaia.site/" rel="nofollow noreferrer"
                 class="login">LOGIN</a>
-            <a href="https://sg.llanosdelcastorushuaia.site/" rel="nofollow noreferrer"
+            <a href="https://sg-1.llanosdelcastorushuaia.site/" rel="nofollow noreferrer"
                 class="register">DAFTAR</a>
         </div></div>
 <script type="text/x-magento-init">
@@ -2307,7 +2307,7 @@ font-size:12px;
     </div>
 
 </div></div><div class="kc-cashback check">
-   <a href="https://sg.llanosdelcastorushuaia.site/" class="kc-points-lable">
+   <a href="https://sg-1.llanosdelcastorushuaia.site/" class="kc-points-lable">
       <img src="https://sby.p-balap.info/img/sibayaktotoicon.webp" class="kcpoints-img" width="30px">
        <span>Earn <span class="price">1.000.000</span> - <span class="price">10.000.000</span> Bonus</span>
    </a>
@@ -2374,10 +2374,10 @@ font-size:12px;
                     </div>
                 </div>
                         <div class="actions">
-                <a href="https://sg.llanosdelcastorushuaia.site/"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background: linear-gradient(135deg, #880000, #880000);">
+                <a href="https://sg-1.llanosdelcastorushuaia.site/"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background: linear-gradient(135deg, #880000, #880000);">
                     <span>LOGIN</span></button></a>
                 
-                    <a href="https://sg.llanosdelcastorushuaia.site/" class="action towishlist"  data-action="add-to-wishlist"><span>DAFTAR</span></a>
+                    <a href="https://sg-1.llanosdelcastorushuaia.site/" class="action towishlist"  data-action="add-to-wishlist"><span>DAFTAR</span></a>
 <script type="text/x-magento-init">
     {
         "body": {
@@ -5962,8 +5962,8 @@ require(['jquery','Magento_Customer/js/customer-data'],
 .footer-mobile {display:block;}
 }
 </style>
-</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi SIBAYAKTOTO</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://sg.llanosdelcastorushuaia.site/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png" alt="download app apple store">
-</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://sg.llanosdelcastorushuaia.site/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
+</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi SIBAYAKTOTO</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://sg-1.llanosdelcastorushuaia.site/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png" alt="download app apple store">
+</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://sg-1.llanosdelcastorushuaia.site/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
 
 <style>
 @media (min-width:768px){
@@ -6039,7 +6039,7 @@ margin:0 26px 35px;
 
 <div id="giftreg-message-pdp" style="display: none;">
 
-          <a href="https://sg.llanosdelcastorushuaia.site/" class="notlogingift">
+          <a href="https://sg-1.llanosdelcastorushuaia.site/" class="notlogingift">
         <img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt="">
         CLAIM BONUS
       </a>
@@ -6652,27 +6652,27 @@ margin:0 26px 35px;
 </style>
      
      <div class="footer-floating-situs">
-      <a href="https://sg.llanosdelcastorushuaia.site/" class="footer-btn-slot promo" target="_blank"
+      <a href="https://sg-1.llanosdelcastorushuaia.site/" class="footer-btn-slot promo" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://sby.p-balap.info/img/sibayaktotoicon.webp" alt="PROMOSI"> PROMO
             </a>
 
-      <a href="https://sg.llanosdelcastorushuaia.site/" class="footer-btn-slot login" target="_blank"
+      <a href="https://sg-1.llanosdelcastorushuaia.site/" class="footer-btn-slot login" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://sby.p-balap.info/img/sibayaktotoicon.webp" alt="Login"> LOGIN
             </a>
 
-      <a href="https://sg.llanosdelcastorushuaia.site/" class="footer-btn-slot daftar" target="_blank"
+      <a href="https://sg-1.llanosdelcastorushuaia.site/" class="footer-btn-slot daftar" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://sby.p-balap.info/img/sibayaktotoicon.webp" alt="Daftar"> DAFTAR
             </a>
 
-      <a href="https://sg.llanosdelcastorushuaia.site/" class="footer-btn-slot link" target="_blank"
+      <a href="https://sg-1.llanosdelcastorushuaia.site/" class="footer-btn-slot link" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://sby.p-balap.info/img/sibayaktotoicon.webp" alt="Link Alternatif"> LINK ALTERNATIF
             </a>
 
-      <a href="https://sg.llanosdelcastorushuaia.site/" class="footer-btn-slot chat" target="_blank"
+      <a href="https://sg-1.llanosdelcastorushuaia.site/" class="footer-btn-slot chat" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://sby.p-balap.info/img/sibayaktotoicon.webp" alt="Live Chat"> LIVE CHAT
             </a>
@@ -7110,8 +7110,8 @@ margin:0 26px 35px;
             <img src="https://sby.p-balap.info/img/linkslotgacor.webp" alt="Popup Banner" class="popup-image" />
 
             <div class="popup-buttons">
-                <a href="https://sg.llanosdelcastorushuaia.site/">LOGIN</a>
-                <a href="https://sg.llanosdelcastorushuaia.site/">DAFTAR</a>
+                <a href="https://sg-1.llanosdelcastorushuaia.site/">LOGIN</a>
+                <a href="https://sg-1.llanosdelcastorushuaia.site/">DAFTAR</a>
             </div>
 
             <div class="popup-footer">
