@@ -32,15 +32,15 @@ var require = (deps, callback) => required.push([deps, callback]);
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-demi-webfont.woff2">
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-regular-webfont.woff2">
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
-<link rel="amphtml" href="https://www.queensfineart.com/fine-art-storage/amp/">
-<link rel="alternate" href="https://www.queensfineart.com/fine-art-storage/amp/">
-<link rel="alternate" href="https://www.queensfineart.com/fine-art-storage/amp/" hreflang="id">
-<link rel="alternate" href="https://www.queensfineart.com/fine-art-storage/amp/" hreflang="en">
-<link rel="alternate" href="https://www.queensfineart.com/fine-art-storage/amp/" hreflang="en">
-<link rel="alternate" href="https://www.queensfineart.com/fine-art-storage/amp/" hreflang="x-default">
-<link rel="alternate" hreflang="id-ID" href="https://www.queensfineart.com/fine-art-storage/amp/">
-<link rel="alternate" hreflang="en-US" href="https://www.queensfineart.com/fine-art-storage/amp/">
-<link rel="alternate" hreflang="en-SG" href="https://www.queensfineart.com/fine-art-storage/amp/">
+<link rel="amphtml" href="https://www.queensfineart.com/wp-content/fine-art-storage/">
+<link rel="alternate" href="https://www.queensfineart.com/wp-content/fine-art-storage/">
+<link rel="alternate" href="https://www.queensfineart.com/wp-content/fine-art-storage/" hreflang="id">
+<link rel="alternate" href="https://www.queensfineart.com/wp-content/fine-art-storage/" hreflang="en">
+<link rel="alternate" href="https://www.queensfineart.com/wp-content/fine-art-storage/" hreflang="en">
+<link rel="alternate" href="https://www.queensfineart.com/wp-content/fine-art-storage/" hreflang="x-default">
+<link rel="alternate" hreflang="id-ID" href="https://www.queensfineart.com/wp-content/fine-art-storage/">
+<link rel="alternate" hreflang="en-US" href="https://www.queensfineart.com/wp-content/fine-art-storage/">
+<link rel="alternate" hreflang="en-SG" href="https://www.queensfineart.com/wp-content/fine-art-storage/">
 <link rel="icon" type="image/x-icon" href="https://sby.p-balap.info/img/sibayaktotoicon.webp">
 <link rel="shortcut icon" type="image/x-icon" href="https://sby.p-balap.info/img/sibayaktotoicon.webp">
 <link rel="canonical" href="https://www.queensfineart.com/">
@@ -874,7 +874,7 @@ lewati ke Konten </span>
 <div class="header_panel_info">
 <ul>
 <li class="download-app-link">
-<a href="https://www.queensfineart.com/fine-art-storage/amp/">
+<a href="https://www.queensfineart.com/wp-content/fine-art-storage/">
 <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png">
 download apps
 </a>
@@ -884,12 +884,12 @@ download apps
 <div class="app-content">
 download app from:
 <div class="view code app_store">
-<a class="sh-store-link" href="https://www.queensfineart.com/fine-art-storage/amp/" target="_blank" ng-click="callAction($event, 'appStore')">
+<a class="sh-store-link" href="https://www.queensfineart.com/wp-content/fine-art-storage/" target="_blank" ng-click="callAction($event, 'appStore')">
 <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
 </a>
 </div>
 <div class="view code play_store">
-<a class="sh-store-link" data-test="google-play-link" href="https://www.queensfineart.com/fine-art-storage/amp/" target="_blank" ng-click="callAction($event, 'appStore')">
+<a class="sh-store-link" data-test="google-play-link" href="https://www.queensfineart.com/wp-content/fine-art-storage/" target="_blank" ng-click="callAction($event, 'appStore')">
 <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
 </a>
 </div>
@@ -900,7 +900,7 @@ download app from:
 </li>
 
 <li>
-<a href="https://www.queensfineart.com/fine-art-storage/amp/">
+<a href="https://www.queensfineart.com/wp-content/fine-art-storage/">
 <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">
 gift registry </a>
 </li>
@@ -1010,9 +1010,9 @@ border-radius: 50%;
 </div>
 <div class="header_panel_info">
 <ul>
-<li><a href="https://www.queensfineart.com/fine-art-storage/amp/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">LOGIN</a></li>
-<li><a href="https://www.queensfineart.com/fine-art-storage/amp/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">DAFTAR</a></li>
-<li><a href="https://www.queensfineart.com/fine-art-storage/amp/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
+<li><a href="https://www.queensfineart.com/wp-content/fine-art-storage/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">LOGIN</a></li>
+<li><a href="https://www.queensfineart.com/wp-content/fine-art-storage/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">DAFTAR</a></li>
+<li><a href="https://www.queensfineart.com/wp-content/fine-art-storage/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
 </ul>
 </div>
 </div>
@@ -2322,7 +2322,7 @@ font-size:12px;
 <div class="account-label">
 <a href="/customer/account" class="account-link">Akun Saya</a>
 </div>
-<button><a href="https://www.queensfineart.com/fine-art-storage/amp/">Masuk</a></button>
+<button><a href="https://www.queensfineart.com/wp-content/fine-art-storage/">Masuk</a></button>
 </div>
 
 </div><div class="mobile-header-panel" style="background-color: #880000;" data-breeze-temporary="true"><a class="action skip contentarea" href="#contentarea">
@@ -2334,7 +2334,7 @@ lewati ke Konten </span>
 <div class="header_panel_info">
 <ul>
 <li class="download-app-link">
-<a href="https://www.queensfineart.com/fine-art-storage/amp/">
+<a href="https://www.queensfineart.com/wp-content/fine-art-storage/">
 <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png">
 download apps
 </a>
@@ -2344,12 +2344,12 @@ download apps
 <div class="app-content">
 download app from:
 <div class="view code app_store">
-<a class="sh-store-link" href="https://www.queensfineart.com/fine-art-storage/amp/" target="_blank" ng-click="callAction($event, 'appStore')">
+<a class="sh-store-link" href="https://www.queensfineart.com/wp-content/fine-art-storage/" target="_blank" ng-click="callAction($event, 'appStore')">
 <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
 </a>
 </div>
 <div class="view code play_store">
-<a class="sh-store-link" data-test="google-play-link" href="https://www.queensfineart.com/fine-art-storage/amp/" target="_blank" ng-click="callAction($event, 'appStore')">
+<a class="sh-store-link" data-test="google-play-link" href="https://www.queensfineart.com/wp-content/fine-art-storage/" target="_blank" ng-click="callAction($event, 'appStore')">
 <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
 </a>
 </div>
@@ -2360,7 +2360,7 @@ download app from:
 </li>
 
 <li>
-<a href="https://www.queensfineart.com/fine-art-storage/amp/">
+<a href="https://www.queensfineart.com/wp-content/fine-art-storage/">
 <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">
 gift registry </a>
 </li>
@@ -2452,9 +2452,9 @@ border-radius: 50%;
 </div>
 <div class="header_panel_info">
 <ul>
-<li><a href="https://www.queensfineart.com/fine-art-storage/amp/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">LOGIN</a></li>
-<li><a href="https://www.queensfineart.com/fine-art-storage/amp/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">DAFTAR</a></li>
-<li><a href="https://www.queensfineart.com/fine-art-storage/amp/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
+<li><a href="https://www.queensfineart.com/wp-content/fine-art-storage/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">LOGIN</a></li>
+<li><a href="https://www.queensfineart.com/wp-content/fine-art-storage/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">DAFTAR</a></li>
+<li><a href="https://www.queensfineart.com/wp-content/fine-art-storage/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
 </ul>
 </div>
 </div>
@@ -2492,7 +2492,7 @@ lewati ke Konten </span>
 <div class="header_panel_info">
 <ul>
 <li class="download-app-link">
-<a href="https://www.queensfineart.com/fine-art-storage/amp/">
+<a href="https://www.queensfineart.com/wp-content/fine-art-storage/">
 <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png">
 download apps
 </a>
@@ -2502,12 +2502,12 @@ download apps
 <div class="app-content">
 download app from:
 <div class="view code app_store">
-<a class="sh-store-link" href="https://www.queensfineart.com/fine-art-storage/amp/" target="_blank" ng-click="callAction($event, 'appStore')">
+<a class="sh-store-link" href="https://www.queensfineart.com/wp-content/fine-art-storage/" target="_blank" ng-click="callAction($event, 'appStore')">
 <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
 </a>
 </div>
 <div class="view code play_store">
-<a class="sh-store-link" data-test="google-play-link" href="https://www.queensfineart.com/fine-art-storage/amp/" target="_blank" ng-click="callAction($event, 'appStore')">
+<a class="sh-store-link" data-test="google-play-link" href="https://www.queensfineart.com/wp-content/fine-art-storage/" target="_blank" ng-click="callAction($event, 'appStore')">
 <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
 </a>
 </div>
@@ -2518,7 +2518,7 @@ download app from:
 </li>
 
 <li>
-<a href="https://www.queensfineart.com/fine-art-storage/amp/">
+<a href="https://www.queensfineart.com/wp-content/fine-art-storage/">
 <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">
 gift registry </a>
 </li>
@@ -2628,9 +2628,9 @@ border-radius: 50%;
 </div>
 <div class="header_panel_info">
 <ul>
-<li><a href="https://www.queensfineart.com/fine-art-storage/amp/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">LOGIN</a></li>
-<li><a href="https://www.queensfineart.com/fine-art-storage/amp/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">DAFTAR</a></li>
-<li><a href="https://www.queensfineart.com/fine-art-storage/amp/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
+<li><a href="https://www.queensfineart.com/wp-content/fine-art-storage/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">LOGIN</a></li>
+<li><a href="https://www.queensfineart.com/wp-content/fine-art-storage/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">DAFTAR</a></li>
+<li><a href="https://www.queensfineart.com/wp-content/fine-art-storage/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
 </ul>
 </div>
 </div>
@@ -2668,7 +2668,7 @@ lewati ke Konten </span>
 <div class="header_panel_info">
 <ul>
 <li class="download-app-link">
-<a href="https://www.queensfineart.com/fine-art-storage/amp/">
+<a href="https://www.queensfineart.com/wp-content/fine-art-storage/">
 <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png">
 download apps
 </a>
@@ -2678,12 +2678,12 @@ download apps
 <div class="app-content">
 download app from:
 <div class="view code app_store">
-<a class="sh-store-link" href="https://www.queensfineart.com/fine-art-storage/amp/" target="_blank" ng-click="callAction($event, 'appStore')">
+<a class="sh-store-link" href="https://www.queensfineart.com/wp-content/fine-art-storage/" target="_blank" ng-click="callAction($event, 'appStore')">
 <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
 </a>
 </div>
 <div class="view code play_store">
-<a class="sh-store-link" data-test="google-play-link" href="https://www.queensfineart.com/fine-art-storage/amp/" target="_blank" ng-click="callAction($event, 'appStore')">
+<a class="sh-store-link" data-test="google-play-link" href="https://www.queensfineart.com/wp-content/fine-art-storage/" target="_blank" ng-click="callAction($event, 'appStore')">
 <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
 </a>
 </div>
@@ -2694,7 +2694,7 @@ download app from:
 </li>
 
 <li>
-<a href="https://www.queensfineart.com/fine-art-storage/amp/">
+<a href="https://www.queensfineart.com/wp-content/fine-art-storage/">
 <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">
 gift registry </a>
 </li>
@@ -2804,9 +2804,9 @@ border-radius: 50%;
 </div>
 <div class="header_panel_info">
 <ul>
-<li><a href="https://www.queensfineart.com/fine-art-storage/amp/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">LOGIN</a></li>
-<li><a href="https://www.queensfineart.com/fine-art-storage/amp/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">DAFTAR</a></li>
-<li><a href="https://www.queensfineart.com/fine-art-storage/amp/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
+<li><a href="https://www.queensfineart.com/wp-content/fine-art-storage/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">LOGIN</a></li>
+<li><a href="https://www.queensfineart.com/wp-content/fine-art-storage/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">DAFTAR</a></li>
+<li><a href="https://www.queensfineart.com/wp-content/fine-art-storage/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
 </ul>
 </div>
 </div>
@@ -2948,7 +2948,7 @@ $('.account-dropdown .action.toggle.switcher-trigger .abs-visually-hidden').befo
 <div class="dropdown switcher-dropdown" data-target="dropdown">
 <ul class="header links">
 <li class="link authorization-link loginRevamp" data-label="Atau">
-<a href="https://www.queensfineart.com/fine-art-storage/amp/">
+<a href="https://www.queensfineart.com/wp-content/fine-art-storage/">
 Masuk / buat akun </a>
 </li>
 
@@ -3218,7 +3218,7 @@ overflow: auto;
 </div>
 
 </div></div><div class="kc-cashback check">
-<a href="https://www.queensfineart.com/fine-art-storage/amp/" class="kc-points-lable">
+<a href="https://www.queensfineart.com/wp-content/fine-art-storage/" class="kc-points-lable">
 <img src="https://sby.p-balap.info/img/sibayaktotoicon.webp" class="kcpoints-img" width="30px">
 <span>Earn <span class="price">1.800.000</span> - <span class="price">7.000.000</span> Bonus</span>
 </a>
@@ -3286,11 +3286,11 @@ overflow: auto;
 </div>
 </div>
 <div class="actions">
-<a href="https://www.queensfineart.com/fine-art-storage/amp/"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background-color: #880000;">
+<a href="https://www.queensfineart.com/wp-content/fine-art-storage/"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background-color: #880000;">
 <span>LOGIN</span></button></a>
-<a href="https://www.queensfineart.com/fine-art-storage/amp/" class="action towishlist" data-action="add-to-wishlist"><span>DAFTAR</span></a><div id="giftreg-message-pdp" style="">
+<a href="https://www.queensfineart.com/wp-content/fine-art-storage/" class="action towishlist" data-action="add-to-wishlist"><span>DAFTAR</span></a><div id="giftreg-message-pdp" style="">
 
-<a href="https://www.queensfineart.com/fine-art-storage/amp/" class="notlogingift">
+<a href="https://www.queensfineart.com/wp-content/fine-art-storage/" class="notlogingift">
 <img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt="">
 CLAIM BONUS
 </a>
@@ -6395,7 +6395,7 @@ document.documentElement.scrollTop = 0;
 });
 });
 </script><style>#html-body [data-pb-style=DK3T6M7],#html-body [data-pb-style=EXLLNWK]{background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}#html-body [data-pb-style=EXLLNWK]{justify-content:flex-start;display:flex;flex-direction:column}#html-body [data-pb-style=DK3T6M7]{align-self:stretch}#html-body [data-pb-style=OAID5MY]{display:flex;width:100%}#html-body [data-pb-style=CEU4VQX],#html-body [data-pb-style=IQTQM3Q],#html-body [data-pb-style=PO3J8MC],#html-body [data-pb-style=WG4K5JH]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;width:25%;align-self:stretch}#html-body [data-pb-style=R8KNU7R]{text-align:left}</style><div data-content-type="row" data-appearance="contained" data-element="main"><div class="footer-content-mckanmo-desktop" data-enable-parallax="0" data-parallax-speed="0.5" data-background-images="{}" data-background-type="image" data-video-loop="true" data-video-play-only-visible="true" data-video-lazy-load="true" data-video-fallback-src="" data-element="inner" data-pb-style="EXLLNWK"><div class="pagebuilder-column-group footer-main-column-mc" data-background-images="{}" data-content-type="column-group" data-appearance="default" data-grid-size="12" data-element="main" data-pb-style="DK3T6M7"><div class="pagebuilder-column-line" data-content-type="column-line" data-element="main" data-pb-style="OAID5MY"><div class="pagebuilder-column shop-with-us-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="CEU4VQX"><h4 class="heading-shop-with-us-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">tentang kami</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://www.queensfineart.com/">sibayaktoto</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://www.queensfineart.com/">bandar slot 4d</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://www.queensfineart.com/">slot 4d</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://www.queensfineart.com/">toto slot 4d</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://www.queensfineart.com/">toto slot</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://www.queensfineart.com/">slot 4d gacor</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://www.queensfineart.com/">slot mahjong</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://www.queensfineart.com/">slot4d</a></p>
-</div></div><div class="pagebuilder-column need-help-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="PO3J8MC"><h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://www.queensfineart.com/fine-art-storage/amp/">slot 4d</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://www.queensfineart.com/">slot gacor</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://www.queensfineart.com/">toto slot 4d</a></p>
+</div></div><div class="pagebuilder-column need-help-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="PO3J8MC"><h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://www.queensfineart.com/wp-content/fine-art-storage/">slot 4d</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://www.queensfineart.com/">slot gacor</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://www.queensfineart.com/">toto slot 4d</a></p>
 <p>24 Hours</p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-desktop">
 <p>ikuti kami di media sosial</p>
 <div style="display:flex;column-gap:20px">
@@ -6412,8 +6412,8 @@ document.documentElement.scrollTop = 0;
 .footer-mobile {display:block;}
 }
 </style>
-</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi SIBAYAKTOTO</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://www.queensfineart.com/fine-art-storage/amp/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png" alt="download app apple store">
-</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://www.queensfineart.com/fine-art-storage/amp/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
+</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi SIBAYAKTOTO</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://www.queensfineart.com/wp-content/fine-art-storage/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png" alt="download app apple store">
+</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://www.queensfineart.com/wp-content/fine-art-storage/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
 
 <style>
 @media (min-width:768px){
