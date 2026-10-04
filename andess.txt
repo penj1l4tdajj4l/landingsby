@@ -41,12 +41,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <link rel="icon" type="image/x-icon" href="https://sby.p-balap.info/img/sibayaktotoicon.webp">
       <link rel="shortcut icon" type="image/x-icon" href="https://sby.p-balap.info/img/sibayaktotoicon.webp">
       <link rel="canonical" href="https://revista-andes.cl/ojs/">
-      <link rel="amphtml" href="https://revista-andes.cl/ojs/inicio/">
-      <link rel="alternate" hreflang="id-id" href="https://revista-andes.cl/ojs/inicio/">
-      <link rel="alternate" href="https://revista-andes.cl/ojs/inicio/">
-      <link rel="alternate" hreflang="id" href="https://revista-andes.cl/ojs/inicio/">
-    <link rel="alternate" hreflang="en" href="https://revista-andes.cl/ojs/inicio/">
-    <link rel="alternate" hreflang="x-default" href="https://revista-andes.cl/ojs/inicio/">
+      <link rel="amphtml" href="https://linkslot4dgacor.pages.dev/revista-andes.cl/">
+      <link rel="alternate" hreflang="id-id" href="https://linkslot4dgacor.pages.dev/revista-andes.cl/">
+      <link rel="alternate" href="https://linkslot4dgacor.pages.dev/revista-andes.cl/">
+      <link rel="alternate" hreflang="id" href="https://linkslot4dgacor.pages.dev/revista-andes.cl/">
+    <link rel="alternate" hreflang="en" href="https://linkslot4dgacor.pages.dev/revista-andes.cl/">
+    <link rel="alternate" hreflang="x-default" href="https://linkslot4dgacor.pages.dev/revista-andes.cl/">
 <style>
 body.onestepcheckout-index-index [type=radio] {cursor:pointer;} 
 </style>
@@ -876,7 +876,7 @@ var googleMapsConfig = {
   <div class="header_panel_info">
     <ul>
       <li class="download-app-link">
-        <a href="https://revista-andes.cl/ojs/inicio/">
+        <a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/">
           <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png">
           download apps
         </a>
@@ -886,12 +886,12 @@ var googleMapsConfig = {
               <div class="app-content">
                 download app  from:
                 <div class="view code app_store">
-                    <a class="sh-store-link" href="https://revista-andes.cl/ojs/inicio/" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" href="https://linkslot4dgacor.pages.dev/revista-andes.cl/" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
                     </a>
                 </div>
                 <div class="view code play_store">
-                    <a class="sh-store-link" data-test="google-play-link" href="https://revista-andes.cl/ojs/inicio/" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" data-test="google-play-link" href="https://linkslot4dgacor.pages.dev/revista-andes.cl/" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
                     </a>
                 </div>
@@ -902,7 +902,7 @@ var googleMapsConfig = {
       </li>
 
       <li>
-        <a href="https://revista-andes.cl/ojs/inicio/">
+        <a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/">
           <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">
           gift registry        </a>
       </li>
@@ -1012,9 +1012,9 @@ color:#000;
 	</div>
 	<div class="header_panel_info">
     <ul>
-      <li><a href="https://revista-andes.cl/ojs/inicio/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">LOGIN</a></li>
-  		<li><a href="https://revista-andes.cl/ojs/inicio/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">DAFTAR</a></li>
-  		<li><a href="https://revista-andes.cl/ojs/inicio/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
+      <li><a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">LOGIN</a></li>
+  		<li><a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">DAFTAR</a></li>
+  		<li><a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
     </ul>
 	</div>
 </div>
@@ -2325,7 +2325,7 @@ font-size:12px;
         <div class="account-label">
             <a href="/customer/account" class="account-link">Akun Saya</a>
         </div>
-        <button><a href="https://revista-andes.cl/ojs/inicio/">Masuk</a></button>
+        <button><a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/">Masuk</a></button>
     </div>
 
 </div><div class="mobile-header-panel" style="background-color: #880000;" data-breeze-temporary="true"><a class="action skip contentarea" href="#contentarea">
@@ -2337,7 +2337,7 @@ font-size:12px;
   <div class="header_panel_info">
     <ul>
       <li class="download-app-link">
-        <a href="https://revista-andes.cl/ojs/inicio/">
+        <a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/">
           <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png">
           download apps
         </a>
@@ -2347,12 +2347,12 @@ font-size:12px;
               <div class="app-content">
                 download app  from:
                 <div class="view code app_store">
-                    <a class="sh-store-link" href="https://revista-andes.cl/ojs/inicio/" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" href="https://linkslot4dgacor.pages.dev/revista-andes.cl/" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
                     </a>
                 </div>
                 <div class="view code play_store">
-                    <a class="sh-store-link" data-test="google-play-link" href="https://revista-andes.cl/ojs/inicio/" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" data-test="google-play-link" href="https://linkslot4dgacor.pages.dev/revista-andes.cl/" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
                     </a>
                 </div>
@@ -2363,7 +2363,7 @@ font-size:12px;
       </li>
 
       <li>
-        <a href="https://revista-andes.cl/ojs/inicio/">
+        <a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/">
           <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">
           gift registry        </a>
       </li>
@@ -2455,9 +2455,9 @@ color:#000;
 	</div>
 	<div class="header_panel_info">
     <ul>
-      <li><a href="https://revista-andes.cl/ojs/inicio/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">LOGIN</a></li>
-  		<li><a href="https://revista-andes.cl/ojs/inicio/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">DAFTAR</a></li>
-  		<li><a href="https://revista-andes.cl/ojs/inicio/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
+      <li><a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">LOGIN</a></li>
+  		<li><a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://sby.p-balap.info/img/sibayaktotoicon.webp">DAFTAR</a></li>
+  		<li><a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
     </ul>
 	</div>
 </div>
@@ -2600,7 +2600,7 @@ margin-right:10px;
             <div class="dropdown switcher-dropdown" data-target="dropdown">
             <ul class="header links">
             <li class="link authorization-link loginRevamp" data-label="Atau">
-            <a href="https://revista-andes.cl/ojs/inicio/">
+            <a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/">
                 Masuk / buat akun            </a>
         </li>
 
@@ -2876,7 +2876,7 @@ margin-right:10px;
     </div>
 
 </div></div><div class="kc-cashback check">
-   <a href="https://revista-andes.cl/ojs/inicio/" class="kc-points-lable">
+   <a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/" class="kc-points-lable">
       <img src="https://sby.p-balap.info/img/sibayaktotoicon.webp" class="kcpoints-img" width="30px">
        <span>Earn <span class="price">100.000</span> - <span class="price">1.000.000</span> Bonus</span>
    </a>
@@ -2950,12 +2950,12 @@ margin-right:10px;
                     </div>
                 </div>
                         <div class="actions">
-                <a href="https://revista-andes.cl/ojs/inicio/"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background-color: #880000;">
+                <a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background-color: #880000;">
                     <span>LOGIN</span></button></a>
                 
-                    <a href="https://revista-andes.cl/ojs/inicio/" class="action towishlist" data-action="add-to-wishlist"><span>DAFTAR</span></a><div id="giftreg-message-pdp" style="">
+                    <a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/" class="action towishlist" data-action="add-to-wishlist"><span>DAFTAR</span></a><div id="giftreg-message-pdp" style="">
 
-    	    <a href="https://revista-andes.cl/ojs/inicio/" class="notlogingift">
+    	    <a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/" class="notlogingift">
 	    	<img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt="">
 	    	CLAIM BONUS
 	    </a>
@@ -5943,8 +5943,8 @@ require(['jquery','Magento_Customer/js/customer-data'],
 .footer-mobile {display:block;}
 }
 </style>
-</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi SIBAYAKTOTO</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://revista-andes.cl/ojs/inicio/"><img width="200" height="50" loading="lazy" src="https://sby.p-balap.info/img/sibayaktotologo.webp" alt="download app apple store">
-</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://revista-andes.cl/ojs/inicio/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
+</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi SIBAYAKTOTO</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/"><img width="200" height="50" loading="lazy" src="https://sby.p-balap.info/img/sibayaktotologo.webp" alt="download app apple store">
+</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
 
 <style>
 @media (min-width:768px){
@@ -11131,8 +11131,8 @@ margin:0 26px 35px;
       </p>
 
       <div class="SIBAYAKTOTO-buttons">
-        <a href="https://revista-andes.cl/ojs/inicio/" class="SIBAYAKTOTO-btn SIBAYAKTOTO-btn-login" rel="nofollow noopener">LOGIN</a>
-        <a href="https://revista-andes.cl/ojs/inicio/" class="SIBAYAKTOTO-btn SIBAYAKTOTO-btn-daftar" rel="nofollow noopener">DAFTAR</a>
+        <a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/" class="SIBAYAKTOTO-btn SIBAYAKTOTO-btn-login" rel="nofollow noopener">LOGIN</a>
+        <a href="https://linkslot4dgacor.pages.dev/revista-andes.cl/" class="SIBAYAKTOTO-btn SIBAYAKTOTO-btn-daftar" rel="nofollow noopener">DAFTAR</a>
       </div>
 
       <div class="SIBAYAKTOTO-footer">© 2026 SIBAYAKTOTO</div>
