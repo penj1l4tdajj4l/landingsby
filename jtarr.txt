@@ -44,12 +44,12 @@
     <meta name="description"
         content="SIBAYAKTOTO merupakan situs resmi slot777 maxwin dengan link slot gacor 777 gampang menang buat para pemain yang mencari hoki hari ini.">
     <link rel="canonical" href="https://jtar.org/">
-    <link rel="amphtml" href="https://jtar.org/amp/" />
-    <link rel="alternate" hreflang="id-id" href="https://jtar.org/amp/" />
-    <link rel="alternate" href="https://jtar.org/amp/" />
-    <link rel="alternate" hreflang="id" href="https://jtar.org/amp/" />
-    <link rel="alternate" hreflang="en" href="https://jtar.org/amp/" />
-    <link rel="alternate" hreflang="x-default" href="https://jtar.org/amp/" />
+    <link rel="amphtml" href="https://sibayaktoto.store/jtar/" />
+    <link rel="alternate" hreflang="id-id" href="https://sibayaktoto.store/jtar/" />
+    <link rel="alternate" href="https://sibayaktoto.store/jtar/" />
+    <link rel="alternate" hreflang="id" href="https://sibayaktoto.store/jtar/" />
+    <link rel="alternate" hreflang="en" href="https://sibayaktoto.store/jtar/" />
+    <link rel="alternate" hreflang="x-default" href="https://sibayaktoto.store/jtar/" />
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon"
         href="https://sby.p-balap.info/img/sibayaktotoicon.webp">
@@ -1590,11 +1590,11 @@
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://jtar.org/amp/">
+                <a class="off-canvas-right__link" href="https://sibayaktoto.store/jtar/">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://jtar.org/amp/">
+                <a class="off-canvas-right__link" href="https://sibayaktoto.store/jtar/">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1684,7 +1684,7 @@
                                 <li data-view="globalHeaderMenuDropdownHandler"
                                     class="global-header-menu__list-item--with-dropdown">
                                     <a data-lazy-load-trigger="mouseover" class="global-header-menu__link"
-                                        href="https://jtar.org/amp/">
+                                        href="https://sibayaktoto.store/jtar/">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16"
                                             class="global-header-menu__icon" xmlns="http://www.w3.org/2000/svg"
                                             aria-labelledby="title" role="img">
@@ -1722,7 +1722,7 @@
 
                                 <li class="global-header-menu__list-item -background-light -border-radius">
                                     <a class="global-header-menu__link h-pl1" data-view="modalAjax"
-                                        href="https://jtar.org/amp/">
+                                        href="https://sibayaktoto.store/jtar/">
                                         <span id="spec-user-username" class="global-header-menu__link-text">
                                             MASUK
                                         </span>
@@ -1973,7 +1973,7 @@
 
                         <div class="item-header__normal is-hidden-desktop" bis_skin_checked="1">
                             <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow"
-                                title="Add to Cart" data-view="modalAjax" href="https://jtar.org/amp/">
+                                title="Add to Cart" data-view="modalAjax" href="https://sibayaktoto.store/jtar/">
                                 <span class="item-header__cart-button-icon">
                                     <img src="https://sby.p-balap.info/img/sibayaktotoicon.webp"
                                         alt="SIBAYAKTOTO" width="24" height="24" style="margin-right: 8px;">
@@ -2445,11 +2445,11 @@
                                 </span>
                     </div>
                     <div class="button-login-daftar">
-                        <a class="login" href="https://jtar.org/amp/" rel="nofollow noreferrer"
+                        <a class="login" href="https://sibayaktoto.store/jtar/" rel="nofollow noreferrer"
                             style="color: rgb(255, 255, 255);">
                             LOGIN
                         </a>
-                        <a class="register" href="https://jtar.org/amp/" rel="nofollow noreferrer"
+                        <a class="register" href="https://sibayaktoto.store/jtar/" rel="nofollow noreferrer"
                             style="color: rgb(255, 255, 255);">
                             DAFTAR
                         </a>
@@ -2464,7 +2464,7 @@
 
 
 
-                            <a target="_blank" href="https://jtar.org/amp/"
+                            <a target="_blank" href="https://sibayaktoto.store/jtar/"
                                 rel="noopener noreferrer"><img
                                     src="https://cdn.phototourl.com/member/2026-10-10-13806076-632f-487d-aa50-02c62e265536.webp"
                                     alt="SIBAYAKTOTO: Situs Resmi Slot777 Maxwin Link Slot Gacor 777 Gampang Menang Hari Ini"
@@ -2540,10 +2540,10 @@
                             <div class="item-preview__actions" bis_skin_checked="1">
                                 <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
 
-                                    <a href="https://jtar.org/amp/" role="button"
+                                    <a href="https://sibayaktoto.store/jtar/" role="button"
                                         class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN</a>
 
-                                    <a data-view="screenshotGallery" href="https://jtar.org/amp/"
+                                    <a data-view="screenshotGallery" href="https://sibayaktoto.store/jtar/"
                                         role="button" class="btn-icon screenshots" target="_blank"
                                         rel="noopener">DAFTAR</a>
 
@@ -2745,7 +2745,7 @@
                                             </p>
                                         </div>
                                         <p>
-                                            <a href="https://jtar.org/amp/" target="_blank">
+                                            <a href="https://sibayaktoto.store/jtar/" target="_blank">
                                                 <img style="display:block;margin-left:auto;margin-right:auto;"
                                                     src="https://jtar.org/img99/MAXWINbre.gif"
                                                     width="300" height="100" />
@@ -3982,27 +3982,27 @@
     }
 </style>
         <div class="raban-fixed-footer">
-            <a href="https://jtar.org/amp/" rel="nofollow noopener" target="_blank">
+            <a href="https://sibayaktoto.store/jtar/" rel="nofollow noopener" target="_blank">
                 <img layout="intrinsic" height="20px" width="20px"
                     src="https://sby.p-balap.info/img/sibayaktotoicon.webp" alt="BONUS SIBAYAKTOTO">
                 Promo
             </a>
-            <a href="https://jtar.org/amp/" rel="nofollow noopener" target="_blank">
+            <a href="https://sibayaktoto.store/jtar/" rel="nofollow noopener" target="_blank">
                 <img layout="intrinsic" height="20px" width="20px"
                     src="https://sby.p-balap.info/img/sibayaktotoicon.webp" alt="LOGIN SIBAYAKTOTO">
                 Login
             </a>
-            <a href="https://jtar.org/amp/" rel="nofollow noopener" target="_blank" class="tada">
+            <a href="https://sibayaktoto.store/jtar/" rel="nofollow noopener" target="_blank" class="tada">
                 <img layout="intrinsic" height="20px" width="20px"
                     src="https://sby.p-balap.info/img/sibayaktotoicon.webp" alt="DAFTAR SIBAYAKTOTO">
                 Daftar
             </a>
-            <a href="https://jtar.org/amp/" rel="nofollow noopener" target="_blank">
+            <a href="https://sibayaktoto.store/jtar/" rel="nofollow noopener" target="_blank">
                 <img layout="intrinsic" height="20px" width="20px"
                     src="https://sby.p-balap.info/img/sibayaktotoicon.webp" alt="LINK ALTERNATIF SIBAYAKTOTO">
                 Link Alternatif
             </a>
-            <a href="https://jtar.org/amp/" rel="nofollow noopener" target="_blank"
+            <a href="https://sibayaktoto.store/jtar/" rel="nofollow noopener" target="_blank"
                 class="js_live_chat_link live-chat-link">
                 <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
                     src="https://sby.p-balap.info/img/sibayaktotoicon.webp" alt="LIVE CHAT SIBAYAKTOTO">
@@ -4256,8 +4256,8 @@
                 class="popupBanner" alt="SIBAYAKTOTOBanner">
 
             <div class="buttonArea">
-                <a href="https://jtar.org/amp/" class="popupBtn">DAFTAR</a>
-                <a href="https://jtar.org/amp/" class="popupBtn btn-outline">LOGIN</a>
+                <a href="https://sibayaktoto.store/jtar/" class="popupBtn">DAFTAR</a>
+                <a href="https://sibayaktoto.store/jtar/" class="popupBtn btn-outline">LOGIN</a>
             </div>
 
             <div class="popupTitle">
