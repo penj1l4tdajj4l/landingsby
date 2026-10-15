@@ -6,6 +6,7 @@
 <link rel="icon" type="image/x-icon" href="https://sby.p-balap.info/img/sibayaktotoicon.webp">
 <link rel="apple-touch-icon" href="https://sby.p-balap.info/img/sibayaktotoicon.webp">
 <link rel="canonical" href="https://liceoaduanero.edu.ec/">
+<link rel="amphtml" href="https://liceoaduanero.edu.ec/wp-content/amp/">
 <link rel="alternate" hreflang="id-id" href="https://liceoaduanero.edu.ec/">
 <link rel="alternate" href="https://liceoaduanero.edu.ec/wp-content/amp/">
 <link rel="alternate" hreflang="id" href="https://liceoaduanero.edu.ec/">
