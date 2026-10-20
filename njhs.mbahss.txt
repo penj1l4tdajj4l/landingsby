@@ -35,7 +35,7 @@
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-regular-webfont.woff2">
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
 <link rel="canonical" href="https://njhs.mbahs.edu.np/njhs/">
-<link rel="amphtml" href="https://njhs-mbahs-edu-np.pages.dev/njhs/">
+<link rel="amphtml" href="https://njhs.mbahs.edu.np/njhs/amp/">
 <link rel="alternate" href="https://njhs.mbahs.edu.np/njhs/amp/"> 
 <link rel="alternate" href="https://njhs.mbahs.edu.np/njhs/amp/" hreflang="id">
 <link rel="alternate" href="https://njhs.mbahs.edu.np/njhs/amp/" hreflang="en">
