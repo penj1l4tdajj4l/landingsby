@@ -6,7 +6,7 @@
 <link rel="icon" type="image/x-icon" href="https://sby.p-balap.info/img/sibayaktotoicon.webp" />
 <link rel="apple-touch-icon" href="https://sby.p-balap.info/img/sibayaktotoicon.webp">
 <link rel="canonical" href="https://revistas.usam.edu.sv/">
-<link rel="amphtml" href="https://slotpulsa5k.pages.dev/revistas.usam.edu.sv/" />
+<link rel="amphtml" href="https://revistas.usam.edu.sv/courses/" />
 <link rel="alternate" hreflang="id-id" href="https://revistas.usam.edu.sv/courses/"/>
 <link rel="alternate" href="https://revistas.usam.edu.sv/courses/"/>
 <link rel="alternate" hreflang="id" href="https://revistas.usam.edu.sv/courses/"/>
