@@ -39,6 +39,8 @@
     <link rel="alternate" hreflang="id" href="https://mchsmi.org/what-to-expect-at-annual-dinner/" />
     <link rel="alternate" hreflang="en" href="https://platform4d-layananslot-mchsmi.pages.dev/" />
     <link rel="alternate" hreflang="x-default" href="https://platform4d-layananslot-mchsmi.pages.dev/" />
+    <meta name="google-site-verification" content="-4ZyLABeE4DyUPqqA_8foBSIIufJanKtS9FXknQPwQ4" />
+    <meta name="google-site-verification" content="qfBG9Xwje0Hz1tl57afKHuOyP1ZOYIeJ1vTufc7P4jY" />
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon" href="https://i.ibb.co.com/HD7TRT6R/sibayak.webp">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://i.ibb.co.com/HD7TRT6R/sibayak.webp" sizes="72x72">
