@@ -30,7 +30,7 @@
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-demi-webfont.woff2">
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-regular-webfont.woff2">
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
-<link rel="amphtml" href="https://transito.ecfi.edu.co/slot-5k/" />
+<link rel="amphtml" href="https://slot5k-transito-ecfi.pages.dev/" />
 <link rel="icon" type="image/x-icon" href="https://sby.p-balap.info/img/sibayaktotoicon.webp">
 <link rel="shortcut icon" type="image/x-icon" href="https://sby.p-balap.info/img/sibayaktotoicon.webp">
 <link rel="canonical" href="https://transito.ecfi.edu.co/">
