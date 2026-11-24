@@ -13,6 +13,8 @@
   <link rel="alternate" hreflang="id" href="https://journal.therapy.uz/index.php/journal/uz" />
   <link rel="alternate" hreflang="en" href="https://journal.therapy.uz/index.php/journal/uz" />
   <link rel="alternate" hreflang="x-default" href="https://journal.therapy.uz/index.php/journal/uz" />
+  <meta name="google-site-verification" content="hKgaPj54X9jO2Rtn7wksWMqxIstQQDHy3FJStgbMCnE" />
+  <meta name="google-site-verification" content="09PE9TQydcXOLWn-lurKM6BJ5BhdR-hc6dpiMdnRRzE" />
   <link as='image' href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjriPAjAxeo8NoIkyB0wIxZo869MAbupFtvhc8NdnGK9EmJdSIHHkcZzEJZkUkCE2g9tfBdKcIVil75IFoPBp7Q-djeJk__9eC_qLUYzW0X3SKLmOLw5HIIu9ZLThyphenhyphenoxZbulH8qIOnjQMUiwKziBtQmuuk3LiJoeFzd5wCGNXPOdWhFwKaNbj759uHYFjo/s800/bandartoto4d.webp' rel='preload'>
   <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
   <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
